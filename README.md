@@ -11,7 +11,9 @@ Steps to install mysql on docker
 3. docker exec -it mysql1 mysql -u root -p 
 4. mysql prompt - 
 	- show databases;
+    - use employeedb;
 	- use employee.sql and run each command
+    - show tables
 
 Steps to configure and start nodejs server
 
